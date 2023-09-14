@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('wallpaper1.jpg');
+}
+.timeline{
+    display: flex;
+    position: relative;
+    margin: 100px ;
+}
+
+.container{
+    text-align: center;
+    padding: 10px 50px;
+    position: relative;
+    width: 50%;
+    background: rgba(0,0,0, 0.3);
+}
+
+.text-box{
+    padding: 20px 30px;
+    background: #ffffff;
+    position: relative;
+    border-radius: 6px;
+    font-size: 15px;
+
+}
+
+
+

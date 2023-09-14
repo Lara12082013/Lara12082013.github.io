@@ -1,0 +1,43 @@
+.heading{
+    text-align: center;
+    margin: 0 6rem;
+    font-size: 4rem;
+    padding: 1rem;
+    border-bottom: .1rem solid #109a45;
+    color: #109a45;
+}
+
+body{
+    background-image: url(wallpaper1.jpg);
+}
+
+.heading .span{
+    color: #0d8340;
+}
+
+.about .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+}
+.about .row .info{
+    flex: 1 1 48rem;
+    padding: 2rem 1rem;
+    padding-left: 6rem;
+
+}
+
+.about .row .info .h3{
+    font-size: 2rem;
+    color: #0d8340;
+    padding: 1rem 0;
+    font-weight: normal;
+
+}
+
+.about .row .info .h3 .span{
+    color: #16893a;
+    padding: 0 .5rem;
+}
